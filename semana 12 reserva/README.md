@@ -26,8 +26,7 @@ Estado de la sala:
 ```
 
 ## Ejecución
-Guarda el archivo `reserva_cine.py` y ejecútalo con:
+Abre una terminal en la carpeta del proyecto y ejecuta
 
 ```bash
-python reserva_cine.py
-```
+python reserva de cine.py 
